@@ -1,6 +1,7 @@
 <div>
     <div align=center>
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fjanine-codes.medium.com%2F7-ways-to-encourage-fill-in-the-blank-to-code-1fa21d2ec8e1&psig=AOvVaw2cFM-w7qGQewpbmxGpkS3Z&ust=1747059872381000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDBw6zPm40DFQAAAAAdAAAAABAE" alt="GitHub Coder Cat" height="200">
+        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*Vo2TjYu9oSrMXje3IFoaWw.png" alt="GitHub Coder Cat" height="200">
+>
     </div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Diyaa+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
